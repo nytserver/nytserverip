@@ -16,7 +16,7 @@ TSFriend:
 TSFurnace:
   45.76.49.115: nyt-mus
 TSMine:
- 45.76.49.115: nyt-mus
+  45.76.49.115: nyt-mus
 TSNoColor:
   45.76.49.115: nyt-mus
 TSNoSpam:
@@ -36,7 +36,7 @@ TSSmartShop:
 TSTimeToBanCommands:
   45.76.49.115: nyt-mus
 TSTimeBroadCaster:
- 45.76.49.115: nyt-mus
+  45.76.49.115: nyt-mus
 TSTutorial:
   45.76.49.115: nyt-mus
 TSSponsor:
@@ -50,5 +50,5 @@ TSPackage:
 TSFindingThing:
   45.76.49.115: nyt-mus
 TSSuddenlyQuiz:
- 45.76.49.115: nyt-mus
+  45.76.49.115: nyt-mus
 ...
